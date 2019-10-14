@@ -25,3 +25,6 @@ print (cadena.find("todo", 62))
 
 # Imprime a partir de un �ndice y hasta el final
 print (cadena[78:])
+
+
+//http://localhost:8888/notebooks/Untitled1.ipynb?kernel_name=python3#
