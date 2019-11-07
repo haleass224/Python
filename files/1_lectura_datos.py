@@ -30,3 +30,7 @@ while running:
         print ("El resultado es: %d" % multiplicacion)
     elif op == 3:
         running = False
+
+        
+        #anexamos funciones
+        http://localhost:8888/notebooks/Untitled1.ipynb?kernel_name=python3
