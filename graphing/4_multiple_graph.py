@@ -22,3 +22,7 @@ plt.plot(t2, np.cos(2*np.pi*t2), 'r--')
 
 plt.show()
 
+
+
+
+
